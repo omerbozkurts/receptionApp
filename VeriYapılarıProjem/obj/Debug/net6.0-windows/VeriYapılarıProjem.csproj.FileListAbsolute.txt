@@ -1,0 +1,77 @@
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.exe
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.deps.json
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.runtimeconfig.json
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.pdb
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form1.resources
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.csproj.GenerateResource.cache
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.AssemblyInfoInputs.cache
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.AssemblyInfo.cs
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.csproj.CoreCompileInputs.cache
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\refint\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.pdb
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.genruntimeconfig.cache
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\ref\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Properties.Resources.resources
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form101.resources
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.YeniMusteriEkleme.resources
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form102.resources
+C:\Users\Ali Yasir\Desktop\Ders\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form103.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.exe
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.deps.json
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.runtimeconfig.json
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.pdb
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form1.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form101.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form102.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form103.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Properties.Resources.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.csproj.GenerateResource.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.AssemblyInfoInputs.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.AssemblyInfo.cs
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.csproj.CoreCompileInputs.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\refint\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.pdb
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.genruntimeconfig.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\ref\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.FormOda101.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form104.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form105.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form106.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form107.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form108.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form109.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\otel\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form110.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.exe
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.deps.json
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.runtimeconfig.json
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\bin\Debug\net6.0-windows\VeriYapılarıProjem.pdb
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form1.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form101.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form102.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form103.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form104.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form105.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form106.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form107.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form108.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form109.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Form110.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.FormOda101.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.Properties.Resources.resources
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.csproj.GenerateResource.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.AssemblyInfoInputs.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.AssemblyInfo.cs
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.csproj.CoreCompileInputs.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\refint\VeriYapılarıProjem.dll
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.pdb
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\VeriYapılarıProjem.genruntimeconfig.cache
+C:\Users\Ali Yasir\Desktop\Ders\2023-2023 Veri Yapıları\VeriYapılarıProjem\VeriYapılarıProjem\obj\Debug\net6.0-windows\ref\VeriYapılarıProjem.dll

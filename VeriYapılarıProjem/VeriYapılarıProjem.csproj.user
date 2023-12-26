@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form102.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form103.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form104.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form105.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form106.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form107.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form108.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form109.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form110.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOda101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
